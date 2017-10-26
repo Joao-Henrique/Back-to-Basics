@@ -12,24 +12,25 @@ This is where I'll keep track of my progress, revisiting the basic concepts o ja
 JavaScript instructions
 #### - Declarations
 var, let, const
-..*Declaring Variables
-..*Evaluating Variables
-..*Variable scope*
-*Variable hoisting*
-*Function hoisting*
-*Global variables* (window.variable syntax)
++ Declaring Variables
++ Evaluating Variables
++ Variable scope
++ Variable hoisting
++ Function hoisting
++ Global variables (window.variable syntax)
 #### - Data Structures and Types
-*Data types*
-*Data types conversion*
-*Converting strings to numbers* (parseInt() and parseFloat())
++ Data types
++ Data types conversion
++ Converting strings to numbers
+(parseInt() and parseFloat())
 #### - Literals
-*Array literals*
-*Bolean literals*
-*Floating-point literals*
-*Integers*
-*Object literals*
-*RegExp literals*
-*String literals*
++ Array literals
++ Bolean literals
++ Floating-point literals
++ Integers
++ Object literals
++ RegExp literals
++ String literals
 
 
 

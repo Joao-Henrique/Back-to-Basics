@@ -12,9 +12,9 @@ This is where I'll keep track of my progress, revisiting the basic concepts o ja
 JavaScript instructions
 #### - Declarations
 var, let, const
-*Declaring Variables*
-*Evaluating Variables*
-*Variable scope*
+..*Declaring Variables
+..*Evaluating Variables
+..*Variable scope*
 *Variable hoisting*
 *Function hoisting*
 *Global variables* (window.variable syntax)

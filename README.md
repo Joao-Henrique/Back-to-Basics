@@ -23,6 +23,14 @@ var, let, const
 * Data types conversion
 * Converting strings to numbers (parseInt() and parseFloat())
 #### - Literals
+#### - Literals
++ Array literals
++ Bolean literals
++ Floating-point literals
++ Integers
++ Object literals
++ RegExp literals
++ String literals
 ## Control Flow and Error Handling
 * Block statement
 * Conditional statemenets
@@ -43,14 +51,6 @@ var, let, const
 + Data types conversion
 + Converting strings to numbers
 (parseInt() and parseFloat())
-#### - Literals
-+ Array literals
-+ Bolean literals
-+ Floating-point literals
-+ Integers
-+ Object literals
-+ RegExp literals
-+ String literals
 
 
 

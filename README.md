@@ -29,9 +29,9 @@ var, let, const
 - if else
 - swith
 * Exception handeling statements
-- throw
-- try... catch
-* Promisses
+... throw
+... try... catch
+...Promisses
 
 
 

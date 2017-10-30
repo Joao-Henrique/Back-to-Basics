@@ -48,12 +48,24 @@ var, let, const
 + rejected
 + settled
 ## Loops And Iteration
-#### - for
-#### - do...while
-#### - while
-#### - labeled
-#### - break
-#### - continue
-#### - for..in
-#### - for...of
++ for
++ do...while
++ while
++ labeled
++ break
++ continue
++ for..in
++ for...of
 ## Functions
++ Calling functions
++ Function scope
++ Recursion
++ Nested functions
++ Closures
++ Default parameters
++ Rest parameters
++ Arrow functions
++ Lexical "this"
++ Predefined functions
+
+

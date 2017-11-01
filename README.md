@@ -67,5 +67,5 @@ var, let, const
 + Arrow functions
 + Lexical "this"
 + Predefined functions
-
+## Expressions and operators
 

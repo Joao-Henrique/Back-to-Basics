@@ -67,4 +67,6 @@ var, let, const
 + Arrow functions
 + Lexical "this"
 ## Expressions and operators
-
++ Assignment operators
++ Conditional (ternary) operator
++ 

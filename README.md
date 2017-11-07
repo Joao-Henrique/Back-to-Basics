@@ -68,5 +68,12 @@ var, let, const
 + Lexical "this"
 ## Expressions and operators
 + Assignment operators
++ Comparison operators
++ Bitwise operators
++ Logical operators
++ String operators
++ Arithmetic operators
 + Conditional (ternary) operator
-+ 
++ Comma operator
++ Unary operators
++ Relational operator

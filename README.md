@@ -77,3 +77,7 @@ var, let, const
 + Comma operator
 + Unary operators
 + Relational operator
+## Numbers and dates
++ Number object
++ Math object
++ Date object

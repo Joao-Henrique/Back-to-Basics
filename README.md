@@ -81,3 +81,5 @@ var, let, const
 + Number object
 + Math object
 + Date object
+## Text formatting
++ 

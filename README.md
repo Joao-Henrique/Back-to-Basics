@@ -82,4 +82,5 @@ var, let, const
 + Math object
 + Date object
 ## Text formatting
-+ 
++ Strings
++

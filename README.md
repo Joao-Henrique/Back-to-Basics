@@ -83,4 +83,5 @@ var, let, const
 + Date object
 ## Text formatting
 + Strings
-+
++ Internationalization
++ 

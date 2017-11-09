@@ -84,4 +84,6 @@ var, let, const
 ## Text formatting
 + Strings
 + Internationalization
-+ 
+## Indexed collections
+#### - Array object
+

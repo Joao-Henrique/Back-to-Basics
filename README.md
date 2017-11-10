@@ -105,3 +105,8 @@ var, let, const
 + WeakMap object
 #### - Sets
 + Set object
++ Converting between Array and Set
++ Array and Set compared
++ WeakSet object
+#### - Key and value equality of Map and Set
+## Working with objects

@@ -96,4 +96,12 @@ var, let, const
 + Arrays and regular expressions
 + Working with array-like objects
 #### - Typed Arrays
-
++ ArrayBuffer
++ Typed array views
+## Keyed collections
+#### - Maps
++ Map object
++ Object and Map compared
++ WeakMap object
+#### - Sets
++ Set object

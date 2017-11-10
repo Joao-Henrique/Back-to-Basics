@@ -86,4 +86,14 @@ var, let, const
 + Internationalization
 ## Indexed collections
 #### - Array object
++ Creating an array
++ Populating an array
++ Referring to array elements
++ Understanding length
++ Iterating over arrays
++ Array methods
++ Multi-dimensional arrays
++ Arrays and regular expressions
++ Working with array-like objects
+#### - Typed Arrays
 

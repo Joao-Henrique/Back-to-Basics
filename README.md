@@ -110,3 +110,4 @@ var, let, const
 + WeakSet object
 #### - Key and value equality of Map and Set
 ## Working with objects
+#### - Objects and properties

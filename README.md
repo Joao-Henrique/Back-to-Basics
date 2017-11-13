@@ -113,3 +113,5 @@ var, let, const
 #### - Objects and properties
 #### - Enumerate the properties of an object
 #### - Creating new objects
++ Using object initializers
+

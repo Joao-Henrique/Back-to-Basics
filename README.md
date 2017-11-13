@@ -111,3 +111,5 @@ var, let, const
 #### - Key and value equality of Map and Set
 ## Working with objects
 #### - Objects and properties
+#### - Enumerate the properties of an object
+#### - Creating new objects

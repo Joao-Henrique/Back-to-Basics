@@ -118,4 +118,4 @@ var, let, const
 + Using the Object.create method
 #### - Inheritance
 #### - Indexing object properties
-
+#### - Defining properties for an object type

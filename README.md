@@ -114,4 +114,8 @@ var, let, const
 #### - Enumerate the properties of an object
 #### - Creating new objects
 + Using object initializers
++ Using a constructor function
++ Using the Object.create method
+#### - Inheritance
+#### - Indexing object properties
 

@@ -109,7 +109,7 @@ var, let, const
 + Array and Set compared
 + WeakSet object
 #### - Key and value equality of Map and Set
-## Working with objects
+## Working with objects (Very Important)
 #### - Objects and properties
 #### - Enumerate the properties of an object
 #### - Creating new objects
@@ -119,3 +119,12 @@ var, let, const
 #### - Inheritance
 #### - Indexing object properties
 #### - Defining properties for an object type
+#### - Defining methods
+#### - Using this for object references
+#### - Defining getters and setters
+#### - Deleting properties
+#### - Comparing Objects
+## Details of the object model
+#### - Class-based vs. prototype-based languages
++ Defining a class
++ Subclasses and inheritance

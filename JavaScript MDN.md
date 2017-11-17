@@ -128,3 +128,8 @@ var, let, const
 #### - Class-based vs. prototype-based languages
 + Defining a class
 + Subclasses and inheritance
++ Adding and removing properties
+#### - The employee example
+#### - Creating the hierarchy
+#### - Object properties
+

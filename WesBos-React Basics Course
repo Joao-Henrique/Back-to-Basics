@@ -9,4 +9,6 @@
 + 06 Creating our application layout with components
 + 07 Passing Dynamic data with props
 + 08 Stateless Functional Components
-
++ 09 Routing with React Router
++ 10 Helper and utility Functions
++ 11 Working with React Events

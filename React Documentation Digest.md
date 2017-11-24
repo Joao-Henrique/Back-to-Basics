@@ -5,3 +5,4 @@
 #### - Rendering Elements
 #### - Components and Props
 #### - State and Lifecycle
+#### - Handling Events

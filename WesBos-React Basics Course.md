@@ -1,10 +1,10 @@
 # WesBos - React Basics Course
 #### This is the file where I'll keep traking my progress throught the WesBos React Course
 
-+ 01 - introduction tooleing and editor setup
-+ 02 - thinking and understanding react cor
-+ 03 - Creating our first components
-+ 04 - Writing html with jsx
++ 01 Introduction tooleing and editor setup
++ 02 Thinking and understanding react cor
++ 03 Creating our first components
++ 04 Writing html with jsx
 + 05 Loading CSS into our React Application
 + 06 Creating our application layout with components
 + 07 Passing Dynamic data with props

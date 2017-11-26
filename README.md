@@ -8,3 +8,6 @@
 
 ### React Documentation Digest
 + Here I'll leep track of React official documentation reading.
+
+### Lynda - Learn React.js The Basics Tutorial
++ This is where I'll keep track of my progress in Lynda - Learn React.js The Basics Tutorial

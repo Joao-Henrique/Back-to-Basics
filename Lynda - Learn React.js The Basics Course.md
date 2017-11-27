@@ -22,3 +22,13 @@
 + 04_05_XR15_AddingNotes
 + 04_06_XR15_Keys
 + 05_01_XR15_CompLifecycleOverview
++ 05_02_XR15_Mounting
++ 05_03_XR15_SettingProps
++ 05_04_XR15_UpdatingComponents
++ 05_05_XR15_LifecycleFunctions
++ 06_01_XR15_Integrating_React_with_Server_2016Q1
++ 06_02_XR15_Hosting_your_app_2016Q1
++ 06_03_XR15_Enhancing_React_2016Q1
++ 07_01_XR15_NextSteps
+
+All Done!!

@@ -11,3 +11,7 @@
 
 ### Lynda - Learn React.js The Basics Tutorial
 + This is where I'll keep track of my progress in Lynda - Learn React.js The Basics Tutorial
+
+### Lynda - React.js Essential Training Tutorial
+
++ This is where I'll keep track of my progress in Lynda - React.js Essential Training Tutorial

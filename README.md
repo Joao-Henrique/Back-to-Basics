@@ -15,3 +15,7 @@
 ### Lynda - React.js Essential Training Tutorial
 
 + This is where I'll keep track of my progress in Lynda - React.js Essential Training Tutorial
+
+### Kyle Simpson - Deep Foundations of Advanced Javascript V2
+
++  Here I'll keep track of my progress in Frontend Masters - Workshop Series

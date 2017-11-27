@@ -124,6 +124,7 @@ var, let, const
 #### - Indexing object properties
 #### - Defining properties for an object type
 #### - Defining methods
++ A method is a property of an object that is a function.
 #### - Using this for object references
 #### - Defining getters and setters
 #### - Deleting properties

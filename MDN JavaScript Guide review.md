@@ -110,8 +110,12 @@ var, let, const
 + WeakSet object
 #### - Key and value equality of Map and Set
 ## Working with objects (Very Important)
++ An object is a collection of properties, and a property is an association between a name (or key) and a value.
 #### - Objects and properties
 #### - Enumerate the properties of an object
++ for...in loops
++ Object.keys(o)
++ Object.getOwnPropertyNames(o)
 #### - Creating new objects
 + Using object initializers
 + Using a constructor function

@@ -1,5 +1,5 @@
 # DEEP FOUNDATIONS OF ADVANCED JAVASCRIPT V2
-## Frontend Masters - Workshop Series
+## Frontend Masters - Workshop Series by Kyle Simpson
 + Introduction
 + Scopes and Closures Introductions
 + Understanding Scope
@@ -9,3 +9,4 @@
 + Partner Up for scope Q&A
 + Strict Mode
 + Scope and Execution Example
++ Scope Review

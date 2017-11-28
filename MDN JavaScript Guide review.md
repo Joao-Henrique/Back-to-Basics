@@ -137,4 +137,5 @@ var, let, const
 #### - The employee example
 #### - Creating the hierarchy
 #### - Object properties
++ Inheriting properties
 

@@ -138,4 +138,9 @@ var, let, const
 #### - Creating the hierarchy
 #### - Object properties
 + Inheriting properties
++ Adding properties
+#### - More flexible constructors
+#### - Property inheritance revisited
++ Local versus inherited values
++ Determining instance relationships
 

@@ -5,4 +5,6 @@
 + 003 Using the exercise files
 + 004 What is React_
 + 005 Setting up Chrome tools for React
-
++ 006 Inspecting React sites
++ 007 Efficient rendering with React
++ 008 Pure React

@@ -16,4 +16,9 @@
 #### - Handling Events
 + Passing Arguments to Event Handlers
 #### - Conditional Rendering
++ Element Variables
++ Inline If with Logical && Operator
++ Inline If-Else with Conditional Operator
++ Preventing Component from Rendering
+
 

@@ -145,5 +145,13 @@ var, let, const
 + Determining instance relationships
 + Global information in constructors
 + No multiple inheritance
-## 
+## Iterators and generators
+#### - Iterators
+#### - Generators
+#### - Iterables
++ User-defined iterables
++ Built-in iterables
++ Syntaxes expecting iterables
+#### - Advanced generators
+## - 
 

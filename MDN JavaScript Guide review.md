@@ -143,4 +143,7 @@ var, let, const
 #### - Property inheritance revisited
 + Local versus inherited values
 + Determining instance relationships
++ Global information in constructors
++ No multiple inheritance
+## 
 

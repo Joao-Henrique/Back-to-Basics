@@ -38,6 +38,16 @@
 + Adding a Second Input
 + Writing Conversion Functions
 + Lifting State Up
++ Lessons Learned
+#### - Composition vs Inheritance
++ Containment
++ Specialization
++ So What About Inheritance?
+#### - Thinking in React
++ Start With A Mock
++ Step 1: Break The UI Into A Component Hierarchy
++ Step 2: Build A Static Version in React
+
 
 
 

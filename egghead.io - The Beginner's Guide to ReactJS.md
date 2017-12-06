@@ -5,5 +5,7 @@
 + 4 - Create Custom React Components
 + 5 - Validate Custom React Component Props With Prop Types
 + 6 - Consitionally Render A React Component
-+ 7 - 
-+ 8 - 
++ 7 - Rerender a React Appçication
++ 8 - Style React Components
++ 9 - Use Event Handlers with React
+

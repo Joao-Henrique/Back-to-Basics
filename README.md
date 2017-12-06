@@ -20,6 +20,6 @@
 
 +  Here I'll keep track of my progress in Frontend Masters - Workshop Series
 
-### The Beginner's Guide to ReactJS
+### egghead.io - The Beginner's Guide to ReactJS
 
 + Here I'll keep track of my progress in egghead.io's Beginner's Guide to ReactJS

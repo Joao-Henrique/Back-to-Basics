@@ -1,4 +1,4 @@
-# The Beginner's Guide to ReactJS
+# egghead.io - The Beginner's Guide to ReactJS
 + 1 - Introduction to Beginner's Guide to ReactJS
 + 2 - Write Hello World with raw React APIs
 + 3 - Use JSX with React

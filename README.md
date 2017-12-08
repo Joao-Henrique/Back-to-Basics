@@ -13,6 +13,10 @@
 
 + This is where I'll keep track of my progress in Lynda - React.js Essential Training Tutorial
 
+### React Docs - Advanced Guides
+
++ This is where I'll keep track of my progress on the React Advanced Guides.
+
 ### WesBos - React Basics Course
 + This is where I'll keep track of my progress on the WesBos- React Basics Course
 
